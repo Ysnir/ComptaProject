@@ -30,6 +30,7 @@ partenariats (communes, collectivités [territorialles]),
 |  |  | **Quoi** <br> **Projet** : descriptif du projet <br> **Produit** : besoins |
 
 <a id="note_comment"></a>**notes** 
+
 1. Brevet
 1. Faisabilité
 1. Développement
