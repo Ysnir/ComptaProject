@@ -1,0 +1,33 @@
+En tant que particulier
+Je dois pouvoir choisir parmis les site disponible à visiter
+Afin d'accéder à un offre personnalisée
+
+En tant qu'utilisateur de la plateforme
+Je dois pouvoir choisir où démarre la visite du site
+Afin d'être libre dans la manière dont je le visite
+
+En tant qu'utilisateur de la plateforme
+Je dois pouvoir manoeuvrer aisément lors de la visite virtuelle
+Afin que celle-ci soit agréable
+
+En tant qu'utilisateur de la plateforme
+Je dois pouvoir visiter un site naturel ou culturel en 3D
+Afin de me divertir, de me renseigner ou de rendre compte de l'état de ce site
+
+En tant que particulier
+Je dois pouvoir choisir différents mode de paiement
+Afin d'adapter ceux-ci à ma manière d'utiliser la plateforme
+
+En tant que site culturel
+Je dois pouvoir obtenir une version adaptée des visites virtuelles
+Afin de restreindre les utilisateurs au site sujet de l'exposition
+
+En tant que site culturel
+Je dois pouvoir afficher des informations supplémentaires lors de l'utilisation d'un visiteur
+Afin de l'informer et de l'éduquer sur le site dont il est question
+
+
+
+Utilisateurs de la plateforme :
+- Particulier
+- Site culturel
